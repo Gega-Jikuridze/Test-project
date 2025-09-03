@@ -4,3 +4,20 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+
+
+/* header  */
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 50px;
+    background-color: gold;
+}
+
+
+.nav{
+    display: flex;
+    gap:20px
+}
